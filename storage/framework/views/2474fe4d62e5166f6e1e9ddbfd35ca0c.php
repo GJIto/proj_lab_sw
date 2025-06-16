@@ -1,0 +1,1 @@
+<label <?php echo e($attributes->merge(['class' => 'block text-sm/6 font-medium text-gray-900'])); ?>><?php echo e($slot); ?></label><?php /**PATH C:\Users\Gabriel\Herd\proj\resources\views/components/form-label.blade.php ENDPATH**/ ?>
